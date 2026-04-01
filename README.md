@@ -76,7 +76,7 @@ Instead of one monolithic bot, we build **four specialized agents** orchestrated
 
 | File | Description |
 |------|-------------|
-| [End_to_End_Setup_Guide.md](End_to_End_Setup_Guide.md) | Step-by-step build instructions for all 4 agents, flows, and data |
+| [Contoso_Smart_Workspace_Complete_Setup_Guide.md](Contoso_Smart_Workspace_Complete_Setup_Guide.md) | Step-by-step build instructions for all 4 agents, flows, and data |
 | [Architecture_and_Flow_Diagrams.md](Architecture_and_Flow_Diagrams.md) | Visual diagrams for all agent flows, Power Automate flows, and data models |
 
 ### Sample Knowledge Documents
@@ -101,7 +101,7 @@ Instead of one monolithic bot, we build **four specialized agents** orchestrated
 
 ## Quick Start
 
-1. **Read** [End_to_End_Setup_Guide.md](End_to_End_Setup_Guide.md) — follow the 8 phases in order
+1. **Read** [Contoso_Smart_Workspace_Complete_Setup_Guide.md](Contoso_Smart_Workspace_Complete_Setup_Guide.md) — follow the 8 phases in order
 2. **Phase 1** — Create SharePoint list, document library, and Dataverse table
 3. **Phase 2–5** — Build the 4 agents with their topics, flows, and knowledge
 4. **Phase 6** — Connect sub-agents to the hub and enable slot filling
