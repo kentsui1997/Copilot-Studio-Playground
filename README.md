@@ -83,7 +83,7 @@ Instead of one monolithic bot, we build **four specialized agents** orchestrated
 
 | File | Purpose |
 |------|---------|
-| Manulife_Product_FAQ.docx | Product FAQ — upload to SharePoint `ProductGuides` library |
+| Contoso_Product_FAQ.docx | Product FAQ — upload to SharePoint `ProductGuides` library |
 | Underwriting_Guidelines.docx | Underwriting rules — upload to SharePoint `ProductGuides` library |
 | Compliance_Policy.docx | Compliance policy — upload to SharePoint `ProductGuides` library |
 
